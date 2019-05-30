@@ -20,5 +20,7 @@ public class testIn {
 		System.out.println("来了，老弟！");
 		System.out.println("来了，小老弟！");
 		System.out.println("来了，老小弟！");
+	    System.out.println("嗯呐，老哥！");
+	    System.out.println("你瞅啥？");
     }
 }
