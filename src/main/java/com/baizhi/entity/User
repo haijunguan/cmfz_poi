@@ -1,4 +1,0 @@
-package com.baizhi.entity;
-public class User{
-private Integer id;
-}
